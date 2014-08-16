@@ -355,7 +355,7 @@
             <dia:string>#动态数组#</dia:string>
           </dia:attribute>
           <dia:attribute name="value">
-            <dia:string>#0-&gt;4#</dia:string>
+            <dia:string>#0-&gt;9#</dia:string>
           </dia:attribute>
           <dia:attribute name="comment">
             <dia:string>##</dia:string>
@@ -674,13 +674,13 @@
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O3">
       <dia:attribute name="obj_pos">
-        <dia:point val="8.05,8.2"/>
+        <dia:point val="8.05,10.35"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="8,8.15;15.405,10.45"/>
+        <dia:rectangle val="8,10.3;15.405,12.6"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="8.05,8.2"/>
+        <dia:point val="8.05,10.35"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="7.3049999999999997"/>
@@ -935,17 +935,17 @@
     </dia:object>
     <dia:object type="UML - Dependency" version="1" id="O6">
       <dia:attribute name="obj_pos">
-        <dia:point val="8.05,8.9"/>
+        <dia:point val="8.05,11.05"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="7,3.35;10.15,8.95"/>
+        <dia:rectangle val="7,3.35;10.15,11.1"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="orth_points">
-        <dia:point val="8.05,8.9"/>
-        <dia:point val="7.05,8.9"/>
+        <dia:point val="8.05,11.05"/>
+        <dia:point val="7.05,11.05"/>
         <dia:point val="7.05,3.8"/>
         <dia:point val="9.7,3.8"/>
       </dia:attribute>
